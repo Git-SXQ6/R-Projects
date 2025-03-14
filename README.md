@@ -1,5 +1,5 @@
 # R-Projects
-this repository consists of my R projects while during data analysis with the following Programmes:
+This repository consists of my R projects while during data analysis with the following programmes:
 
 ## PACT-DS
 ### Excel data collection
