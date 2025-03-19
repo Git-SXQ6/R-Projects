@@ -2,8 +2,10 @@
 This repository consists of my R projects while during data analysis with the following programmes:
 
 ## PACT-DS
-### Excel data collection
-[Checking available columns in Excel](https://github.com/Git-SXQ6/R-Projects/blob/7ed6f128af8ddd57dbffa70a57d408bb1d10a112/PACT-DS/Check%20Available%20Columns.R)
+### [Coding Data Analysis](https://github.com/Git-SXQ6/R-Projects/tree/4bd9b3a0e478edec9cb64ea9535cee9722947b3b/PACT-DS/Coding_Data_Organization)
+
+This folder contains my data analysis code while working on gathering data from different Excel sheet. 
+
 
 ## My Own Interest
 ### Emoji Generation
